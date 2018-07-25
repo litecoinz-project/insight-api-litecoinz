@@ -1,0 +1,191 @@
+[
+  {
+    "poolName": "Miningspeed",
+    "url": "https://litecoinz.miningspeed.com/",
+    "searchStrings": [
+      "miningspeed"
+    ]
+  },  
+  {
+    "poolName": "Lambomoon",
+    "url": "https://lambomoon.club/",
+    "searchStrings": [
+      "lambomoon"
+    ]
+  },
+  {
+    "poolName": "Sgpool",
+    "url": "https://www.sgpool.net",
+    "searchStrings": [
+      "sgpool.net"
+    ]
+  },
+  {
+    "poolName": "MinerManiac",
+    "url": "http://www.minermaniac.com/",
+    "searchStrings": [
+      "minermaniac"
+    ]
+  },
+  {
+    "poolName": "Ehashcoins",
+    "url": "http://sng.ehashcoins.org/",
+    "searchStrings": [
+      "solopool"
+    ]
+  },
+  {
+    "poolName": "equipool.1ds.us",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "equipool"
+    ]
+  },
+  {
+    "poolName": "Aikapool",
+    "url": "https://aikapool.com/sng/",
+    "searchStrings": [
+      "Aika"
+    ]
+  },
+  {
+    "poolName": "Miningpools",
+    "url": "http://miningpools.cloud/?pool=litecoinz#/",
+    "searchStrings": [
+      "miningpools"
+    ]
+  },
+  {
+    "poolName": "Magnificentpool",
+    "url": "https://sng.magnificentpool.com/",
+    "searchStrings": [
+      "magnificent"
+    ]
+  },
+  {
+    "poolName": "Minepool",
+    "url": "http://sng.minepool.ch/",
+    "searchStrings": [
+      "minepool"
+    ]
+  },
+  {
+    "poolName": "Sexy",
+    "url": "http://sng.pool.sexy",
+    "searchStrings": [
+      "Sexy"
+    ]
+  },
+  {
+    "poolName": "Nibirupool",
+    "url": "http://sng.nibirupool.com/",
+    "searchStrings": [
+      "nibiru"
+    ]
+  },
+  {
+    "poolName": "Pcmining",
+    "url": "http://pcmining.xyz:8080/getting_started",
+    "searchStrings": [
+      "pcmining"
+    ]
+  },
+  {
+    "poolName": "Zhash",
+    "url": "https://litecoinz.zhash.pro/",
+    "searchStrings": [
+      "zhash"
+    ]
+  },
+  {
+    "poolName": "Blockmasher",
+    "url": "http://litecoinz.blocksmasher.org/",
+    "searchStrings": [
+      "blocksmasher"
+    ]
+  },
+  {
+    "poolName": "NaN",
+    "url": "",
+    "searchStrings": [
+      "/NaN"
+    ]
+  },
+  {
+    "poolName": "Stratum",
+    "url": "https://litecoinz.org",
+    "searchStrings": [
+      "stratum"
+    ]
+  },
+  {
+    "poolName": "Solo mining",
+    "url": "https://litecoinz.org",
+    "searchStrings": [
+      "solomining"
+    ]
+  },
+{
+  "poolName": "Lucky-Mining",
+  "url": "https://sng.lucky-mining.com.ua/",
+  "searchStrings": [
+    "lucky-mining.com.ua"
+  ]
+},
+  {
+    "poolName": "NOMP pool",
+    "url": "https://litecoinz.org",
+    "searchStrings": [
+      "joshuayabut"
+    ]
+  },
+  {
+    "poolName": "Litecoinzpool",
+    "url": "http://litecoinzpool.cloud",
+    "searchStrings": [
+      "litecoinzpool"
+    ]
+  },
+  {
+    "poolName": "CloudPools",
+    "url": "https://cloudpools.net/",
+    "searchStrings": [
+      "cloudpools"
+    ]
+  },
+  {
+    "poolName": "AxePool",
+    "url": "https://litecoinz.axepool.com/",
+    "searchStrings": [
+      "axepool"
+    ]
+  },
+  {
+    "poolName": "Abacuspool",
+    "url": "http://abakus.gemini.net.pl/",
+    "searchStrings": [
+      "abakus"
+    ]
+  },
+  {
+    "poolName": "Xsgpool",
+    "url": "http://ltzpool.com/",
+    "searchStrings": [
+      "ltzpool.com"
+    ]
+  },
+  {
+    "poolName": "AltPool",
+    "url": "http://ltz.altpool.pro/",
+    "searchStrings": [
+      "altpool.pro"
+    ]
+  },
+  {
+    "poolName": "POOOL!",
+    "url": "http://www.POOOL.com/",
+    "searchStrings": [
+      "POOOL.com http://www.POOOL.com/"
+    ]
+  }
+]
