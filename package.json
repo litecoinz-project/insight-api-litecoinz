@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-litecoinz": "joeb4ck/bitcore-lib-litecoinz",
-    "bitcore-message-litecoinz": "joeb4ck/bitcore-message-litecoinz",
+    "bitcore-lib-litecoinz": "joebl4ck/bitcore-lib-litecoinz",
+    "bitcore-message-litecoinz": "joebl4ck/bitcore-message-litecoinz",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
