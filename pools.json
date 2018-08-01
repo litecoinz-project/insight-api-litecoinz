@@ -104,13 +104,13 @@
     "private-locker"
   ]
 },
-{
-  "poolName": "EquiGems",
-  "url": "https://equigems.online",
-  "searchStrings": [
-    "equigems"
-  ]
-},
+ {
+    "poolName": "EquiGems!",
+    "url": "https://equigems.online",
+    "searchStrings": [
+      "EquiGems! https://equigems.online"
+    ]
+ },
 {
   "poolName": "MinersPool.cc",
   "url": "https://litecoinz.minerspool.cc",
