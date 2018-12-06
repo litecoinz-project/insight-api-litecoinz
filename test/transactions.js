@@ -23,7 +23,7 @@ describe('Transactions', function() {
             'sequence': 4294967295,
             'n': 0,
             'addr': 'mqdofsXHpePPGBFXuwwypAqCcXi48Xhb2f',
-            'valueZat': 18535505,
+            'valueSat': 18535505,
             'value': 0.18535505,
             'doubleSpentTxID': null,
             'isConfirmed': true,
@@ -40,7 +40,7 @@ describe('Transactions', function() {
             'sequence': 4294967295,
             'n': 1,
             'addr': 'mqdofsXHpePPGBFXuwwypAqCcXi48Xhb2f',
-            'valueZat': 16419885,
+            'valueSat': 16419885,
             'value': 0.16419885,
             'doubleSpentTxID': null,
             'isConfirmed': true,
@@ -422,7 +422,7 @@ describe('Transactions', function() {
                 'sequence': 4294967295,
                 'n': 0,
                 'addr': 'mqdofsXHpePPGBFXuwwypAqCcXi48Xhb2f',
-                'valueZat': 18535505,
+                'valueSat': 18535505,
                 'value': 0.18535505,
                 'doubleSpentTxID': null
               },
@@ -436,7 +436,7 @@ describe('Transactions', function() {
                 'sequence': 4294967295,
                 'n': 1,
                 'addr': 'mqdofsXHpePPGBFXuwwypAqCcXi48Xhb2f',
-                'valueZat': 16419885,
+                'valueSat': 16419885,
                 'value': 0.16419885,
                 'doubleSpentTxID': null
               }
@@ -501,7 +501,7 @@ describe('Transactions', function() {
                 'sequence': 4294967294,
                 'n': 0,
                 'addr': 'mgZK8zpudWoAaAwpLQSgc9t9PJJyEBpBdJ',
-                'valueZat': 990000,
+                'valueSat': 990000,
                 'value': 0.0099,
                 'doubleSpentTxID': null
               },
@@ -515,7 +515,7 @@ describe('Transactions', function() {
                 'sequence': 4294967294,
                 'n': 1,
                 'addr': 'n4oM7bPuC4ZPdCEDvtw9xGYQC7jmi5S6F4',
-                'valueZat': 1960000,
+                'valueSat': 1960000,
                 'value': 0.0196,
                 'doubleSpentTxID': null
               }
@@ -765,7 +765,7 @@ describe('Transactions', function() {
                 'sequence': 4294967294,
                 'n': 0,
                 'addr': 'msyjRQQ88MabQmyafpKCjBHUwuJ49tVjcb',
-                'valueZat': 2796764565,
+                'valueSat': 2796764565,
                 'value': 27.96764565,
                 'doubleSpentTxID': null
               }
@@ -830,7 +830,7 @@ describe('Transactions', function() {
                 'sequence': 4294967294,
                 'n': 0,
                 'addr': 'mkPvAKZ2rar6qeG3KjBtJHHMSP1wFZH7Er',
-                'valueZat': 2782729129,
+                'valueSat': 2782729129,
                 'value': 27.82729129,
                 'doubleSpentTxID': null
               }

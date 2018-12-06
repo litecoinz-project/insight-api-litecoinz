@@ -440,7 +440,7 @@ describe('Addresses', function() {
                 'sequence': 4294967295,
                 'n': 0,
                 'addr': 'moFfnRwt77pApKnnU6m5uocFaa43aAYpt5',
-                'valueZat': 53540000,
+                'valueSat': 53540000,
                 'value': 0.5354,
                 'doubleSpentTxID': null
               },
@@ -454,7 +454,7 @@ describe('Addresses', function() {
                 'sequence': 4294967295,
                 'n': 1,
                 'addr': 'n1XJBAyU4hNR4xRtY3UxnmAteoJX83p5qv',
-                'valueZat': 299829,
+                'valueSat': 299829,
                 'value': 0.00299829,
                 'doubleSpentTxID': null
               }
@@ -593,7 +593,7 @@ describe('Addresses', function() {
                 'sequence': 4294967295,
                 'n': 0,
                 'addr': 'moFfnRwt77pApKnnU6m5uocFaa43aAYpt5',
-                'valueZat': 53540000,
+                'valueSat': 53540000,
                 'value': 0.5354,
                 'doubleSpentTxID': null
               },
@@ -603,7 +603,7 @@ describe('Addresses', function() {
                 'sequence': 4294967295,
                 'n': 1,
                 'addr': 'n1XJBAyU4hNR4xRtY3UxnmAteoJX83p5qv',
-                'valueZat': 299829,
+                'valueSat': 299829,
                 'value': 0.00299829,
                 'doubleSpentTxID': null
               }
