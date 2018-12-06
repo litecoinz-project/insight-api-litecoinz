@@ -2,7 +2,7 @@
   "name": "insight-api-litecoinz",
   "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/joebl4ck/insight-api-litecoinz.git",
+  "repository": "git://github.com/litecoinz-project/insight-api-litecoinz.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -42,9 +42,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/joebl4ck/insight-api-litecoinz/issues"
+    "url": "https://github.com/litecoinz-project/insight-api-litecoinz/issues"
   },
-  "homepage": "https://github.com/joebl4ck/insight-api-litecoinz",
+  "homepage": "https://github.com/litecoinz-project/insight-api-litecoinz",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-litecoinz": "joebl4ck/bitcore-lib-litecoinz",
-    "bitcore-message-litecoinz": "joebl4ck/bitcore-message-litecoinz",
+    "bitcore-lib-litecoinz": "litecoinz-project/bitcore-lib-litecoinz",
+    "bitcore-message-litecoinz": "litecoinz-project/bitcore-message-litecoinz",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
