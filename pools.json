@@ -112,6 +112,27 @@
     ]
  },
 {
+  "poolName": "cryptohost.top",
+  "url": "https://pool.cryptohost.top/",
+  "searchStrings": [
+    "cryptohost"
+  ]
+},
+{
+  "poolName": "fenixpool.top",
+  "url": "http://fenixpool.top/",
+  "searchStrings": [
+    "fenixpool"
+  ]
+},
+{
+  "poolName": "macro-pool",
+  "url": "http://www.macro-pool.com:8080/",
+  "searchStrings": [
+    "macro-pool"
+  ]
+},
+{
   "poolName": "MinersPool.cc",
   "url": "https://litecoinz.minerspool.cc",
   "searchStrings": [
